@@ -1,0 +1,1 @@
+# git_od_podstaw
